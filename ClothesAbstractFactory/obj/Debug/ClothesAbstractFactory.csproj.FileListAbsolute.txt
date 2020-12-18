@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\ClothesAbstractFactory\bin\Debug\ClothesAbstractFactory.dll
+C:\TFS\NorbitCreerGoal\Patterns\ClothesAbstractFactory\bin\Debug\ClothesAbstractFactory.pdb
+C:\TFS\NorbitCreerGoal\Patterns\ClothesAbstractFactory\obj\Debug\ClothesAbstractFactory.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\ClothesAbstractFactory\obj\Debug\ClothesAbstractFactory.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\ClothesAbstractFactory\obj\Debug\ClothesAbstractFactory.dll
+C:\TFS\NorbitCreerGoal\Patterns\ClothesAbstractFactory\obj\Debug\ClothesAbstractFactory.pdb

@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\Decorator\bin\Debug\Decorator.dll
+C:\TFS\NorbitCreerGoal\Patterns\Decorator\bin\Debug\Decorator.pdb
+C:\TFS\NorbitCreerGoal\Patterns\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\Decorator\obj\Debug\Decorator.dll
+C:\TFS\NorbitCreerGoal\Patterns\Decorator\obj\Debug\Decorator.pdb

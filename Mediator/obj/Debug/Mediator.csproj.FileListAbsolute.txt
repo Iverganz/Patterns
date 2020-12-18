@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\Mediator\bin\Debug\Mediator.dll
+C:\TFS\NorbitCreerGoal\Patterns\Mediator\bin\Debug\Mediator.pdb
+C:\TFS\NorbitCreerGoal\Patterns\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\Mediator\obj\Debug\Mediator.dll
+C:\TFS\NorbitCreerGoal\Patterns\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\Iterator\bin\Debug\Iterator.dll
+C:\TFS\NorbitCreerGoal\Patterns\Iterator\bin\Debug\Iterator.pdb
+C:\TFS\NorbitCreerGoal\Patterns\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\Iterator\obj\Debug\Iterator.dll
+C:\TFS\NorbitCreerGoal\Patterns\Iterator\obj\Debug\Iterator.pdb

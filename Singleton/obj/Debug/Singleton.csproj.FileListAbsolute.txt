@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\Singleton\bin\Debug\Singleton.dll
+C:\TFS\NorbitCreerGoal\Patterns\Singleton\bin\Debug\Singleton.pdb
+C:\TFS\NorbitCreerGoal\Patterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\Singleton\obj\Debug\Singleton.dll
+C:\TFS\NorbitCreerGoal\Patterns\Singleton\obj\Debug\Singleton.pdb

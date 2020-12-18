@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClothesAbstractFactory", "ClothesAbstractFactory\ClothesAbstractFactory.csproj", "{AF9D86BB-3DBC-4BDF-B3D5-E41EE1C8B9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsCli", "PatternsCli\PatternsCli.csproj", "{F138B26A-6E46-4595-82AA-0DD23900BF7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{5CC8107C-C68F-41A3-845A-4D55BDE2252A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{5AD38A22-65D7-4D74-85F5-7524870ADC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{3E0E8814-F500-4D4B-8387-CA6E91DD08AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{A582336B-88B0-4290-AA38-6AB12284DEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsTests", "PatternsTests\PatternsTests.csproj", "{E7484873-A721-42E1-92ED-5FE7DE32F4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCAndDI", "IoCAndDI\IoCAndDI.csproj", "{569EACCA-1973-437F-A91D-F229EA316AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{9B9D5436-35DC-4125-9582-1C06C2A4C3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{C923840E-F162-47FE-A91C-7416181E428D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9D86BB-3DBC-4BDF-B3D5-E41EE1C8B9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9D86BB-3DBC-4BDF-B3D5-E41EE1C8B9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9D86BB-3DBC-4BDF-B3D5-E41EE1C8B9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9D86BB-3DBC-4BDF-B3D5-E41EE1C8B9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F138B26A-6E46-4595-82AA-0DD23900BF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F138B26A-6E46-4595-82AA-0DD23900BF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F138B26A-6E46-4595-82AA-0DD23900BF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F138B26A-6E46-4595-82AA-0DD23900BF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC8107C-C68F-41A3-845A-4D55BDE2252A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC8107C-C68F-41A3-845A-4D55BDE2252A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC8107C-C68F-41A3-845A-4D55BDE2252A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC8107C-C68F-41A3-845A-4D55BDE2252A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD38A22-65D7-4D74-85F5-7524870ADC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD38A22-65D7-4D74-85F5-7524870ADC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD38A22-65D7-4D74-85F5-7524870ADC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD38A22-65D7-4D74-85F5-7524870ADC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0E8814-F500-4D4B-8387-CA6E91DD08AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0E8814-F500-4D4B-8387-CA6E91DD08AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0E8814-F500-4D4B-8387-CA6E91DD08AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0E8814-F500-4D4B-8387-CA6E91DD08AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A582336B-88B0-4290-AA38-6AB12284DEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A582336B-88B0-4290-AA38-6AB12284DEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A582336B-88B0-4290-AA38-6AB12284DEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A582336B-88B0-4290-AA38-6AB12284DEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7484873-A721-42E1-92ED-5FE7DE32F4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7484873-A721-42E1-92ED-5FE7DE32F4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7484873-A721-42E1-92ED-5FE7DE32F4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7484873-A721-42E1-92ED-5FE7DE32F4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569EACCA-1973-437F-A91D-F229EA316AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569EACCA-1973-437F-A91D-F229EA316AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569EACCA-1973-437F-A91D-F229EA316AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569EACCA-1973-437F-A91D-F229EA316AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9D5436-35DC-4125-9582-1C06C2A4C3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9D5436-35DC-4125-9582-1C06C2A4C3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9D5436-35DC-4125-9582-1C06C2A4C3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9D5436-35DC-4125-9582-1C06C2A4C3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C923840E-F162-47FE-A91C-7416181E428D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C923840E-F162-47FE-A91C-7416181E428D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C923840E-F162-47FE-A91C-7416181E428D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C923840E-F162-47FE-A91C-7416181E428D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259F724A-305E-47BC-AB36-DB7E8867C4EA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.norbit.ru/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClothesAbstractFactory\\ClothesAbstractFactory.csproj
+		SccProjectName1 = ClothesAbstractFactory
+		SccLocalPath1 = ClothesAbstractFactory
+		SccProjectUniqueName2 = PatternsCli\\PatternsCli.csproj
+		SccProjectName2 = PatternsCli
+		SccLocalPath2 = PatternsCli
+		SccProjectUniqueName3 = Adapter\\Adapter.csproj
+		SccProjectName3 = Adapter
+		SccLocalPath3 = Adapter
+		SccProjectUniqueName4 = Decorator\\Decorator.csproj
+		SccProjectName4 = Decorator
+		SccLocalPath4 = Decorator
+		SccProjectUniqueName5 = Observer\\Observer.csproj
+		SccProjectName5 = Observer
+		SccLocalPath5 = Observer
+		SccProjectUniqueName6 = Singleton\\Singleton.csproj
+		SccProjectName6 = Singleton
+		SccLocalPath6 = Singleton
+		SccProjectUniqueName7 = PatternsTests\\PatternsTests.csproj
+		SccProjectName7 = PatternsTests
+		SccLocalPath7 = PatternsTests
+		SccProjectUniqueName8 = IoCAndDI\\IoCAndDI.csproj
+		SccProjectName8 = IoCAndDI
+		SccLocalPath8 = IoCAndDI
+		SccProjectUniqueName9 = Mediator\\Mediator.csproj
+		SccProjectName9 = Mediator
+		SccLocalPath9 = Mediator
+		SccProjectUniqueName10 = Iterator\\Iterator.csproj
+		SccProjectName10 = Iterator
+		SccLocalPath10 = Iterator
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\IoCAndDI\bin\Debug\IoCAndDI.dll
+C:\TFS\NorbitCreerGoal\Patterns\IoCAndDI\bin\Debug\IoCAndDI.pdb
+C:\TFS\NorbitCreerGoal\Patterns\IoCAndDI\obj\Debug\IoCAndDI.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\IoCAndDI\obj\Debug\IoCAndDI.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\IoCAndDI\obj\Debug\IoCAndDI.dll
+C:\TFS\NorbitCreerGoal\Patterns\IoCAndDI\obj\Debug\IoCAndDI.pdb

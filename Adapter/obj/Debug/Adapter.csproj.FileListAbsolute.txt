@@ -1,0 +1,6 @@
+C:\TFS\NorbitCreerGoal\Patterns\Adapter\bin\Debug\Adapter.dll
+C:\TFS\NorbitCreerGoal\Patterns\Adapter\bin\Debug\Adapter.pdb
+C:\TFS\NorbitCreerGoal\Patterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\TFS\NorbitCreerGoal\Patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\TFS\NorbitCreerGoal\Patterns\Adapter\obj\Debug\Adapter.dll
+C:\TFS\NorbitCreerGoal\Patterns\Adapter\obj\Debug\Adapter.pdb
